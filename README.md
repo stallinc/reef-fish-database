@@ -1,2 +1,2 @@
 # reef-fish-database
-This repository contains scripts to assist in data aggregation.
+This repository contains *R* scripts to assist with aggregation of data included our Data Paper published in *Ecology*, Ten years (2013-2023) of fish assemblage data collected seasonally with underwater visual surveys on paired artificial and natural reefs. These scripts can help users combine datasets associated with the publication to prepare dataframe(s) for statistical analyses. Metadata and datasets are located at (Ecology DOI TBD) and https://zenodo.org/records/10882238.
